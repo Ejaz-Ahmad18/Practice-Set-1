@@ -1,0 +1,38 @@
+body{
+    background-image: url(/kk.jpj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.container{
+    height: 550px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+     padding: 30px 70px;
+    display: flex;
+   justify-content: center;
+   justify-content: space-between;
+   
+}
+.card1{
+   
+width: 320px;
+    background-color: #efe6cbc1;
+    border-radius: 10px;
+}
+.card2{
+width: 320px;
+    background-color: #efe6cbc1;
+    border-radius: 10px;
+}
+.card3{
+width: 320px;
+    background-color: #efe6cbc1;
+    border-radius: 10px;
+}
+.card4{
+width: 320px;
+    background-color: #efe6cbc1;
+    border-radius: 10px;
+}
